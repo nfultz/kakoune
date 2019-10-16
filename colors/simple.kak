@@ -1,4 +1,4 @@
-# Kakoune default color default
+# Kakoune simple colors, mostly default
 
 # For default
 face value default
@@ -11,6 +11,7 @@ face attribute default
 face comment blue
 face meta default
 face builtin default
+
 
 # For default
 face title default
@@ -28,7 +29,9 @@ face Default default,default
 face PrimarySelection white,blue
 face SecondarySelection black,blue
 face PrimaryCursor black,white
-face SecondaryCursor black,white
+face SecondaryCursor black,blue
+face PrimaryCursorEol default
+face SecondaryCursorEol default
 face LineNumbers default
 face LineNumberCursor default
 face MenuForeground default
