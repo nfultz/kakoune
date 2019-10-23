@@ -29,7 +29,7 @@ face global Default default,default
 face global PrimarySelection white,blue
 face global SecondarySelection black,blue
 face global PrimaryCursor black,white
-face global SecondaryCursor black,blue
+face global SecondaryCursor white,blue
 face global PrimaryCursorEol default
 face global SecondaryCursorEol default
 face global LineNumbers default
@@ -43,7 +43,7 @@ face global StatusLine default
 face global StatusLineMode default
 face global StatusLineInfo default
 face global StatusLineValue default
-face global StatusCursor default
+face global StatusCursor default+r
 face global Prompt default
 face global MatchingChar default
 face global BufferPadding default
